@@ -4,3 +4,5 @@ public class Deneme {
         System.out.println("Merhaba!");
     }
 }
+//Restore --> Working Space'i tamamen temizler.
+//Stash --> Hafizaya alir
